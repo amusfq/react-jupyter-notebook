@@ -23,7 +23,7 @@
     "dist"
   ],
   "main": "dist/index.js",
-  "module": "dist/index.mjs",
+  "module": "dist/index.js",
   "typeings": "dist/index.d.ts",
   "dependencies": {
     "@codemirror/gutter": "^0.19.9",
